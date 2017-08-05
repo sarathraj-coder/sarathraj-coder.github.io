@@ -1,5 +1,15 @@
----
-layout: navbanner-layout
----
-This file triggers the generation of the title/navigation bar HTML file.
-It does not need any other content.
+main:
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Pages"
+    url: /page-archive/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "External Link"
+    url: https://google.com
