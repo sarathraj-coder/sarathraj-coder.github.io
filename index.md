@@ -6,6 +6,10 @@ Hi all , Here you can see my writings related to technology and general topics
 
 Here you can see a major video streaming using Peer to Peer supported by google and communitites . You can free to setup in your software and use .
 [WebRTC](webrtc.md)
+---
+title: WebRTC
+permalink: webrtc.md
+---
 
 
 ### Markdown ```05/08/2017```
