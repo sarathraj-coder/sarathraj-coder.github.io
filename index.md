@@ -6,7 +6,7 @@ Hi all , Here you can see my writings related to technology and general topics
 ### Java 8 new features ```06/08/2017```
 
 
-    ```Under development```
+    ```writing```
 
 
 ### Googles Streaming Kit for Developers ```05/08/2017```
